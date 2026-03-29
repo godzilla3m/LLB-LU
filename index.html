@@ -47,6 +47,28 @@
     .sidebar ul li a {
       font-size: 16px;
     }
+    /* Move the mobile menu toggle to the top left */
+.sidebar-toggle {
+  bottom: auto !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: auto !important;
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  padding: 10px !important;
+  width: 30px !important;
+  height: 30px !important;
+}
+
+/* Adjust the sidebar position so it doesn't overlap the new button location */
+section.content {
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    margin: 10px;
+  }
+}
   </style>
 </head>
 <body>
