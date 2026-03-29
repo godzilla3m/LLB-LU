@@ -64,3 +64,5 @@ These notes are updated regularly as per the latest syllabus and legal amendment
 > just checking color and icon
 
 [https://github.com/godzilla3m/LLB-s03/blob/main/README.md](https://github.com/godzilla3m/LLB-s03/blob/main/README.md)
+
+[https://godzilla3m.github.io/LLB-s03/](https://godzilla3m.github.io/LLB-s03/)
