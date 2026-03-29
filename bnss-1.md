@@ -1,4 +1,6 @@
-# Syllabus
+# BNNS - 1
+
+**Syllabus**
 
 ## Unit I: Introduction:
 
