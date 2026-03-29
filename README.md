@@ -22,5 +22,18 @@ Welcome to the digital repository for my **Bachelor of Laws (LLB)** coursework. 
 **Note to Self / Contributors**
 These notes are updated regularly as per the latest syllabus and legal amendments. 
 
-> [!TIP]
+> [TIP]
 > Use the sidebar on the left (or the top-menu on mobile) to jump between different subjects and specific sections.
+
+> [!WARNING]
+> just checking
+
+> [!Caution]
+> just checking red color
+> 
+
+> [!NOTE]
+> just checking
+
+> [!Important]
+> just checking color and icon
