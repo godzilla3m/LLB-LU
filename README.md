@@ -1,9 +1,6 @@
 # 📚 LLB Notes
-2nd year, 3rd semester, papers
+experiment
 
-## 3rd Semester Papers
+## testing
 
-- [BNSS - 1](bnss-1.md)
-- [Company law - 1](company-law-1.md)
-- [CPC](cpc-1.md)
-- [Interpretation of statutes](interpretation-of-statutes.md)
+[LLB-s03](https://godzilla3m.github.io/LLB-s03/)
