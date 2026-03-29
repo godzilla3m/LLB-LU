@@ -1,3 +1,6 @@
+# 📚 LLB Notes
+2nd year, 3rd semester, papers
+
 ## 3rd Semester Papers
 
 - [BNSS - 1](bnss-1.md)
