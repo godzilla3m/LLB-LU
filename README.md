@@ -1,5 +1,5 @@
 # LLB Study Resources ⚖️
-Welcome to the digital repository for my **Bachelor of Laws (LLB)** coursework. This site contains organized notes, statutes, and syllabus details for my current and past semesters.
+Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** coursework. This site contains organized notes, statutes, and syllabus details for my current and past semesters.
 
 ---
 
@@ -63,6 +63,6 @@ These notes are updated regularly as per the latest syllabus and legal amendment
 > [!Important]
 > just checking color and icon
 
-[https://github.com/godzilla3m/LLB-s03/blob/main/README.md](https://github.com/godzilla3m/LLB-s03/blob/main/README.md)
+[https://github.com/godzilla3m/LLB-LU/blob/main/README.md](https://github.com/godzilla3m/LLB-LU/blob/main/README.md)
 
-[https://godzilla3m.github.io/LLB-s03/](https://godzilla3m.github.io/LLB-s03/)
+[https://godzilla3m.github.io/LLB-LU/](https://godzilla3m.github.io/LLB-LU/)
