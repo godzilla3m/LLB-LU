@@ -9,94 +9,102 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-alerts/dist/styles.css">
   
-  <style>
+ <style>
   :root {
-    --theme-color: #007bff; /* Professional Blue */
+    --theme-color: #007bff;
+  }
+  html {
+    background-color: #f0f2f5 !important;
+    /* This creates the necessary 'gap' for both phone and PC */
+    scroll-padding-top: 80px !important; 
+    scroll-behavior: smooth;
   }
 
   /* 1. Typography */
   body {
     font-size: 18px;
     line-height: 1.6;
+    background-color: #f0f2f5 !important; /* Grey 'desk' background */
+    margin: 0;
   }
 
-  /* 2. SMART LAYOUT: Mobile vs Desktop */
-  
-  /* MOBILE (Default): Edge-to-edge for your phone */
-  .content {
-    position: static !important;
-    width: 100% !important;
-  }
-
-  .markdown-section {
-    max-width: 100% !important;
-    padding: 15px !important; /* Tiny gutter for phone edges */
-    margin: 0 !important;
-  }
-
-  /* DESKTOP (Mac Mini): Proper spacing and sidebar alignment */
+  /* 2. THE MASTER LAYOUT (Desktop) */
   @media screen and (min-width: 769px) {
+    /* This creates the 'white paper' look centered on your 27" monitor */
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: calc(50% - 600px); /* 600 is half of our 1200px width */
+      width: 1200px;
+      background: white;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      z-index: -1;
+    }
+
+    /* Keep Sidebar anchored to the left of the centered paper */
+    .sidebar {
+      left: calc(50% - 600px) !important;
+      width: 300px !important;
+      background-color: #fafafa !important;
+      border-right: 1px solid #eee;
+    }
+
+    /* Content sits exactly next to the sidebar within the paper */
     .content {
-      position: relative !important; /* Reset from static */
-      margin-left: 300px; /* Moves text out from under the sidebar */
-      width: auto !important;
+      position: absolute !important;
+      left: calc(50% - 300px) !important; /* Center - 600 + 300 sidebar */
+      width: 900px !important; /* Wikipedia/Google style readable width */
+      right: auto !important;
     }
 
     .markdown-section {
-      max-width: 90% !important; /* Professional width for reading law notes */
-      margin: 0 auto !important;
-      padding: 40px !important;
+      max-width: 100% !important;
+      padding: 40px 60px !important;
+      margin: 0 !important;
     }
+
+    /* Menu button stays with the centered content */
+    .sidebar-toggle {
+      left: calc(50% - 590px) !important;
+      position: fixed !important;
+    }
+
+    /* Full 900px width if sidebar is hidden */
+    body.close .content {
+      left: calc(50% - 450px) !important; /* Half of 900 */
+    }
+
   }
 
-  /* 3. High-Quality Tables */
+  /* 3. MOBILE VIEW (Phone stays edge-to-edge) */
+  @media screen and (max-width: 768px) {
+    body { background-color: white !important; }
+    .content { position: static !important; width: 100% !important; }
+    .markdown-section { padding: 15px !important; }
+    .sidebar-toggle { left: 10px !important; }
+  }
+
+  /* 4. High-Quality Tables */
   table {
-    display: table !important; 
+    display: table !important;
     width: 100% !important;
     border-collapse: collapse;
     margin-bottom: 1.5rem;
-    overflow-x: auto;
   }
-
   th, td {
     padding: 12px !important;
     border: 1px solid #dfe2e5;
-    text-align: left;
   }
+  th { background-color: #f8f8f8; font-weight: bold; }
 
-  th {
-    background-color: #f8f8f8;
-    font-weight: bold;
-  }
-
-  /* 4. Link Styling */
-  .markdown-section a {
-    color: var(--theme-color) !important;
-    text-decoration: none;
-  }
-
-  .markdown-section a:hover {
-    text-decoration: underline;
-  }
-
-  /* 5. Sidebar & Toggle Fixes */
+  /* 5. Sidebar Toggle Z-Index */
   .sidebar-toggle {
     bottom: auto !important;
     top: 10px !important;
-    left: 10px !important;
     background-color: rgba(255, 255, 255, 0.9) !important;
-    border-radius: 4px;
-    width: 35px !important;
-    height: 35px !important;
-    padding: 5px !important;
-  }
-
-  .sidebar ul li a {
-    font-size: 16px;
-  }
-
-  section.content {
-    padding-top: 40px;
+    z-index: 1000;
   }
 </style>
 </head>

@@ -2,10 +2,10 @@
 
 **A1.**  
 
-### Introduction  
+**Introduction**  
 Confession means a statement made by a person admitting guilt of an offence. It is a direct acknowledgment of facts that constitute a crime. For example, if a person says, “I stole the money,” that is a confession. In law, confessions are important because they can prove guilt without further evidence.  
 
-### Main Body  
+**Main Body**  
 - **Definition of Confession**  
   A confession is an admission made by an accused person suggesting that he committed the offence. It is different from an admission in civil cases because it directly relates to criminal liability.  
 
@@ -21,7 +21,7 @@ Confession means a statement made by a person admitting guilt of an offence. It 
 - **Reason for Exclusion**  
   The law excludes such confessions to safeguard the rights of individuals and to prevent misuse of power by police. It ensures that convictions are based on fair and reliable evidence, not forced statements.  
 
-### Conclusion  
+**Conclusion** 
 In short, confession means admitting guilt of a crime. But confessions made to police officers or in police custody are not admissible because they may be obtained by pressure or fear. The law requires that confessions must be voluntary and preferably recorded before a magistrate to be valid. This rule protects justice and prevents wrongful convictions.  
 
 Would you like me to expand this into a **step-by-step outline** with examples and case references so that you can easily fill six pages when handwriting? That way, you’ll have enough material to elaborate in your own words.
