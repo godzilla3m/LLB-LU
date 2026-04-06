@@ -586,7 +586,11 @@ The role of the **Inspector (निरीक्षक - Nirikshak)** is very imp
 
 In conclusion, the provisions for penalties, complaints, and cognizance ensure that the Maternity Benefit Act is not just a piece of paper but a powerful shield for women workers. By prescribing **Imprisonment** and **Fines**, the law creates a fear of consequences for employers. By allowing not just the woman but also NGOs and Inspectors to file **Complaints**, the law ensures that even a woman who is afraid for her job can get justice through other channels. These legal safeguards are essential for maintaining a fair and humane working environment for mothers in India.
 
-### (i) A workman permanently disabled and he served 4 years and 7 months. His last drawn wages was Rs. 25,000. How much he will get gratuity? (ii) A workman did 43 years service in an industry and retired in 62 years age. His last drawn wages Rs. 37,000. Calculate the payable gratuity but he found the guilty for moral turpitude
+### Calculate gratuity 
+
+(i) A workman permanently disabled and he served 4 years and 7 months. His last drawn wages was Rs. 25,000. How much he will get gratuity? 
+
+(ii) A workman did 43 years service in an industry and retired in 62 years age. His last drawn wages Rs. 37,000. Calculate the payable gratuity but he found the guilty for moral turpitude
 
 **Introduction**
 

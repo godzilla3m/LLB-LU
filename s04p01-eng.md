@@ -656,9 +656,9 @@ In conclusion, the legal framework for **leading questions** under **Section 146
 
 ---
 
-# 2024
+## 2024
 
-## Question 1\. Explain 'Fact in Issue' and 'Relevant Facts' under Law of Evidence. Point out some differences between them.
+### Question 1\. Explain 'Fact in Issue' and 'Relevant Facts' under Law of Evidence. Point out some differences between them.
 
 In the Law of Evidence, the entire judicial process revolves around two central concepts: what needs to be decided (**Fact in Issue**) and what information helps the court reach that decision (**Relevant Facts**). Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, these concepts are the filters that determine what the judge will hear and what they will ignore. **Section 3** of the Adhiniyam explicitly states that evidence may be given only of the existence or non-existence of every fact in issue and of relevant facts, and of no others.
 
@@ -711,7 +711,7 @@ Understanding the boundary between these two is vital. While the **Fact in Issue
 
 ---
 
-## Question 2: 'Relevancy and admissibility are **not** co-extensive terms'. Comment in reference to the provisions of the Indian Evidence Act, 1872 (now replaced by the Bhartiya Sakshya Adhiniyam, 2023).
+### Question 2: 'Relevancy and admissibility are **not** co-extensive terms'. Comment in reference to the provisions of the Indian Evidence Act, 1872 (now replaced by the Bhartiya Sakshya Adhiniyam, 2023).
 
 **Meaning of Co‑extensive**
 
@@ -771,7 +771,7 @@ To conclude, relevancy and admissibility are two different stages of the evident
 
 ---
 
-## Question 3: How “facts” which are necessary to explain or “introduce relevant facts” are relevant under Sec. 9 of the Indian Evidence Act, 1872 (BSA Section \- 7)? Explain.
+### Question 3: How “facts” which are necessary to explain or “introduce relevant facts” are relevant under Sec. 9 of the Indian Evidence Act, 1872 (BSA Section \- 7)? Explain.
 
 **Introduction to Section 7 of the Bhartiya Sakshya Adhiniyam (BSA), 2023**
 
@@ -828,7 +828,7 @@ Section 7 of the BSA (Old Section 9 IEA) ensures that a trial is not just a coll
 
 ---
 
-## Question 4: "Anything said or done or written by any one of the conspirators in reference to their common intention as relevant fact not only against each of the conspirator but proving the conspiracy itself." Explain with case laws.
+### Question 4: "Anything said or done or written by any one of the conspirators in reference to their common intention as relevant fact not only against each of the conspirator but proving the conspiracy itself." Explain with case laws.
 
 **Introduction to Section 8 of the Bhartiya Sakshya Adhiniyam (BSA), 2023**
 
@@ -885,13 +885,13 @@ The Supreme Court further refined this by stating that the words "in reference t
 
 ---
 
-## Question 5\. What do you understand by an 'Admission'? Who can make an admission under provisions of Indian Evidence Act, 1872?
+### Question 5\. What do you understand by an 'Admission'? Who can make an admission under provisions of Indian Evidence Act, 1872?
 
 Already answered [here](#question-4:-what-is-admission?-who-can-make-it?-when-can-it-be-used-by-or-on-behalf-of-the-person-making-it?)
 
 ---
 
-## Question 6\. When confession is relevant? State the principle of the use of a confession of an accused against a co-accused.
+### Question 6\. When confession is relevant? State the principle of the use of a confession of an accused against a co-accused.
 
 **Definition of Confession**
 
@@ -936,7 +936,7 @@ Confessions under the **BSA 2023** are treated with great caution. The law ensur
 
 ---
 
-## Question 7: Discuss the essential conditions for the relevancy of a dying declaration under Sec. 32(1) of the Indian Evidence Act, 1872 (now Section 26(a) of the Bhartiya Sakshya Adhiniyam, 2023).
+### Question 7: Discuss the essential conditions for the relevancy of a dying declaration under Sec. 32(1) of the Indian Evidence Act, 1872 (now Section 26(a) of the Bhartiya Sakshya Adhiniyam, 2023).
 
 While your question refers to Section 32(1) of the old Act, the governing provision in your new syllabus is **Section 26(a)** of the **Bhartiya Sakshya Adhiniyam (BSA), 2023**. A dying declaration is a statement made by a person as to the cause of their death or as to any of the circumstances of the transaction which resulted in their death. For such a statement to be legally relevant and admissible in a court of law, several essential conditions must be satisfied.
 
@@ -986,7 +986,7 @@ While a dying declaration is a "weak" type of evidence because the maker cannot 
 
 ---
 
-## Question 8: Explain under what circumstances secondary evidences are permissible in place of primary evidences.
+### Question 8: Explain under what circumstances secondary evidences are permissible in place of primary evidences.
 
 The general rule of the law of evidence is that a document must be proved by its "Primary Evidence," which means the original document itself must be produced for the inspection of the Court. This is known as the **"Best Evidence Rule."** 
 
@@ -1026,7 +1026,7 @@ However, there are practical situations where the original document may be unava
 
 ---
 
-## Question 9: "The burden of proof lies on the party who substantially asserts the affirmative of the issue." Explain and mention its exceptions.
+### Question 9: "The burden of proof lies on the party who substantially asserts the affirmative of the issue." Explain and mention its exceptions.
 
 **🧠Affirmative of the issue** \= the positive claim in dispute.  
 👍If you are the one saying *“X happened”*, you must prove it.
@@ -1071,7 +1071,7 @@ The principle that the burden lies on the "affirmative" ensures that trials are 
 
 ---
 
-## Question 10: Write short notes on any two of the following: (a) Relevancy of electronic evidence, (b) Leading Questions and (c) Bhartiya Sakshya Adhiniyam, 2023\.
+### Question 10: Write short notes on any two of the following: (a) Relevancy of electronic evidence, (b) Leading Questions and (c) Bhartiya Sakshya Adhiniyam, 2023\.
 
 **Note (a): Relevancy of Electronic Evidence**
 
@@ -1131,9 +1131,9 @@ The **Bhartiya Sakshya Adhiniyam, 2023**, is not just a change in name but a fun
 
 ---
 
-# 2023
+## 2023
 
-## Question 1: State the law relating to 'Confession' made by an accused person as enunciated under Section 24 to 27 of the Indian Evidence Act, 1872 (now Sections 22 and 23 of BSA, 2023).
+### Question 1: State the law relating to 'Confession' made by an accused person as enunciated under Section 24 to 27 of the Indian Evidence Act, 1872 (now Sections 22 and 23 of BSA, 2023).
 
 **Introduction and Definition** 
 
@@ -1178,7 +1178,7 @@ The law relating to confessions under the BSA 2023 (and previously IEA) follows 
 
 ---
 
-## Question 2: Define the term 'Res Gestae' with essential conditions and essential elements of this principle.
+### Question 2: Define the term 'Res Gestae' with essential conditions and essential elements of this principle.
 
 The term **Res Gestae** is a Latin phrase that literally translates to "things done" or "part of the transaction". 
 
@@ -1210,7 +1210,7 @@ In conclusion, the principle of **Res Gestae** under **Section 4** of the BSA en
 
 ---
 
-## Question 3: Explain the relevancy of motive, preparation and previous or subsequent conduct as given under the Bhartiya Sakshya Adhiniyam (BSA), 2023\.
+### Question 3: Explain the relevancy of motive, preparation and previous or subsequent conduct as given under the Bhartiya Sakshya Adhiniyam (BSA), 2023\.
 
 In the law of evidence, a person's psychological state and physical actions surrounding an event often provide the most reliable clues about their involvement. Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, these elements are governed by **Section 6** (which replaces Section 8 of the old Indian Evidence Act). This section makes three specific types of facts relevant: 
 
@@ -1247,7 +1247,7 @@ Section 6 of the BSA ensures that a trial is not just about the final act but ab
 
 ---
 
-## Question 4: What is Dying Declaration? Evaluate the **significance** of dying declaration.
+### Question 4: What is Dying Declaration? Evaluate the **significance** of dying declaration.
 
 **Definition of Dying Declaration** Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, a dying declaration is governed by **Section 26(a)**. It is a statement, either written or verbal, made by a person who is now dead, regarding the cause of their death or the circumstances of the transaction that resulted in their death. This statement becomes relevant in cases where the cause of that person's death is a "fact in issue" before the Court.
 
@@ -1292,7 +1292,7 @@ In the famous *Nirbhaya* case, the victim was unable to speak due to her injurie
 
 ---
 
-## Question 5: Elaborate the principle of estoppel as contained in Section 115 of the Indian Evidence Act (now Section 121 of BSA, 2023), giving illustrations. What is estoppel against a statute? Can such an estoppel be pleaded?
+### Question 5: Elaborate the principle of estoppel as contained in Section 115 of the Indian Evidence Act (now Section 121 of BSA, 2023), giving illustrations. What is estoppel against a statute? Can such an estoppel be pleaded?
 
 **The Principle of Estoppel**
 
@@ -1332,7 +1332,7 @@ While **Estoppel** is a powerful tool to ensure honesty and consistency, it is s
 
 ---
 
-## Question 6: Who is an accomplice? Discuss the rules applicable to the admissibility of the testimony of an accomplice.
+### Question 6: Who is an accomplice? Discuss the rules applicable to the admissibility of the testimony of an accomplice.
 
 **Definition of an Accomplice**
 
@@ -1392,7 +1392,7 @@ The law regarding accomplices is a "tightrope walk" for the judiciary. On one ha
 
 ---
 
-## Question 7: What is documentary evidence? Discuss the law relating to relevancy of secondary evidence in legal proceedings.
+### Question 7: What is documentary evidence? Discuss the law relating to relevancy of secondary evidence in legal proceedings.
 
 **Definition of Documentary Evidence** 
 
@@ -1424,7 +1424,7 @@ Documentary evidence is the "silent witness" of the legal world. While **Primary
 
 ---
 
-## Question 8: "The art of cross-examination is a double-edged weapon". Critically comment. State what questions cannot be asked in cross-examinations.
+### Question 8: "The art of cross-examination is a double-edged weapon". Critically comment. State what questions cannot be asked in cross-examinations.
 
 The term **cross-examination** (Hindi word: **प्रति-परीक्षा** \- *Prati-pariksha*) is defined under **Section 141(2)** of the **Bhartiya Sakshya Adhiniyam (BSA), 2023**. It is the examination of a witness by the adverse party. It is widely considered the most powerful tool ever invented for the discovery of truth, but it is also famously described as a "double-edged weapon" because while it can destroy the opponent's case, a poorly handled cross-examination can end up destroying your own.
 
@@ -1473,7 +1473,7 @@ The art of cross-examination requires a surgical balance of aggression and restr
 
 ---
 
-## Question 9: What do you mean by "privileged communications" as given under the Bhartiya Sakshya Adhiniyam, 2023?
+### Question 9: What do you mean by "privileged communications" as given under the Bhartiya Sakshya Adhiniyam, 2023?
 
 **Privileged Communications** (**विशेषाधिकृत संसूचना** — *Visheshadhikrit Sansuchna*) refers to certain confidential conversations or information that are protected by law from being disclosed in a court of law. The law recognizes that some relationships (like husband-wife or lawyer-client) are so sacred or vital to society that forcing a person to reveal what was said in private would cause more harm than good. Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, these protections are found in **Sections 128 to 135** (formerly Sections 122 to 129 of the IEA).
 
@@ -1547,7 +1547,7 @@ The doctrine of privileged communication balances the search for truth in court 
 
 ---
 
-## Question 10: Write short notes on the following: (a) 'Fact' and 'Fact in Issue', (b) Expert opinion, (c) Burden of proof.
+### Question 10: Write short notes on the following: (a) 'Fact' and 'Fact in Issue', (b) Expert opinion, (c) Burden of proof.
 
 **Note (a): 'Fact' and 'Fact in Issue'** 
 
@@ -1580,13 +1580,13 @@ In criminal cases, the **Burden of Proof** is always on the prosecution to prove
 
 ---
 
-# 2022
+## 2022
 
 Repeated answers have been avoided. Only new questions / topics / revision.
 
 ---
 
-## Question 1: What do you understand by relevancy of facts? Are all the relevant facts admissible in Court? Explain.
+### Question 1: What do you understand by relevancy of facts? Are all the relevant facts admissible in Court? Explain.
 
 **Relevancy of Facts** (**तथ्यों की सुसंगति** — *Tathyon ki Susangati*) refers to the logical connection between two facts. A fact is "relevant" if it has the potential to prove or disprove the existence of a "fact in issue." Under the **BSA**, **Sections 4 to 50** define which facts the law considers relevant.
 
@@ -1600,7 +1600,7 @@ Relevancy is the "genus" (broad) and Admissibility is the "species" (narrow). A 
 
 ---
 
-## Question 5: Explain 'Admission' and 'Confession' and distinguish between them. Also discuss as to what extent admission and confession are admissible in the Court.
+### Question 5: Explain 'Admission' and 'Confession' and distinguish between them. Also discuss as to what extent admission and confession are admissible in the Court.
 
 **Admission** (**स्वीकृति** — *Sveekriti*) is a statement (oral, documentary, or electronic) which suggests an inference as to any fact in issue or relevant fact (**Section 15 BSA**). It is usually used in civil cases.
 
@@ -1648,7 +1648,7 @@ For your exam, a great way to phrase this is: **"All Confessions are Admissions,
 
 ---
 
-## Question 10(a): Distinguish between Direct and Circumstantial evidences. Can a person be convicted on circumstantial evidence alone?
+### Question 10(a): Distinguish between Direct and Circumstantial evidences. Can a person be convicted on circumstantial evidence alone?
 
 **Direct Evidence** (**प्रत्यक्ष साक्ष्य** — *Pratyaksh Sakshya*) is evidence that proves a fact in issue directly, without any reasoning or inference.
 
@@ -1670,7 +1670,7 @@ Yes, a person **can be convicted** on circumstantial evidence alone, but the Cou
 
 ---
 
-## Question 10(b): 'Hearsay evidence is no evidence.' Explain and state the exceptions.
+### Question 10(b): 'Hearsay evidence is no evidence.' Explain and state the exceptions.
 
 **Hearsay Evidence** (**अनुश्रुत साक्ष्य** — *Anushrut Sakshya*) is "second-hand" evidence. It is a statement made by a witness who did not perceive the fact through their own senses but heard it from someone else. Under **Section 55 BSA**, oral evidence must always be **direct**.
 
@@ -1686,13 +1686,13 @@ Yes, a person **can be convicted** on circumstantial evidence alone, but the Cou
 
 ---
 
-# 2019
+## 2019
 
 Here are the fresh topics from the 2019 paper, explained under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**.
 
 ---
 
-## Proved, Disproved, and Not Proved (Section 2(2) BSA)
+### Proved, Disproved, and Not Proved (Section 2(2) BSA)
 
 These terms define the "mental state" of the Judge after seeing the evidence.
 
@@ -1704,7 +1704,7 @@ These terms define the "mental state" of the Judge after seeing the evidence.
 
 ---
 
-## Distinction between Res Judicata and Estoppel
+### Distinction between Res Judicata and Estoppel
 
 Both prevent a person from raising a point again, but they operate differently:
 
@@ -1738,7 +1738,7 @@ Both prevent a person from raising a point again, but they operate differently:
 
 ---
 
-## Presumption as to Dowry Death (Section 118 BSA / Old 113-B IEA)
+### Presumption as to Dowry Death (Section 118 BSA / Old 113-B IEA)
 
 This is a **Mandatory Presumption** (**विधि की उपधारणा** — *Vidhi ki Upadharna*) designed to tackle social evils.
 
@@ -1748,7 +1748,7 @@ This is a **Mandatory Presumption** (**विधि की उपधारणा
 
 ---
 
-## Kinds of Evidence (Section 2 BSA)
+### Kinds of Evidence (Section 2 BSA)
 
 For your short note on **Kinds of Evidence** (**साक्ष्य के प्रकार** — *Sakshya ke Prakar*), remember these categories:
 
@@ -1762,7 +1762,7 @@ For your short note on **Kinds of Evidence** (**साक्ष्य के प
 
 ---
 
-## Probate and Admiralty Jurisdiction (Section 35 BSA / Old 41 IEA)
+### Probate and Admiralty Jurisdiction (Section 35 BSA / Old 41 IEA)
 
 This deals with **Judgments in Rem** (**सर्वबंधी निर्णय** — *Sarvabandhi Nirnay*). Most judgments only affect the parties in the case (**In Personam**). However, judgments in **Probate** (validity of a Will), **Matrimonial** (divorce/marriage), **Admiralty** (maritime law), or **Insolvency** are "against the whole world."
 
@@ -1770,13 +1770,13 @@ This deals with **Judgments in Rem** (**सर्वबंधी निर्ण
 
 ---
 
-# 2018
+## 2018
 
 Here are the new topics from the 2018 paper, updated with **Bhartiya Sakshya Adhiniyam (BSA), 2023** provisions.
 
 ---
 
-## Sri Krishna Vs. Kurukshetra University, A.I.R. 1976 S.C.
+### Sri Krishna Vs. Kurukshetra University, A.I.R. 1976 S.C.
 
 **Hindi Word:** **साम्यापूर्ण विबंध** (*Saamyapurn Vibandh* — Equitable Estoppel)
 
@@ -1784,7 +1784,7 @@ This is a landmark case on the principle of **Estoppel**. In this case, a studen
 
 The Supreme Court held that the university was **estopped** from doing so. The Court ruled that it was the duty of the university to check the eligibility *before* issuing the admit card. Once the student acted on that admit card and sat for the exam, the university could not "turn back" and change its position. 
 
-## Shall Presume vs. Conclusive Proof (Section 2(2) BSA)
+### Shall Presume vs. Conclusive Proof (Section 2(2) BSA)
 
 The law of evidence categorizes "presumptions" into different levels of strength:
 
@@ -1793,7 +1793,7 @@ The law of evidence categorizes "presumptions" into different levels of strength
 * **Conclusive Proof** (**निश्चायक सबूत** — *Nishchayak Saboot*): This is the strongest form of evidence. When one fact is declared by the BSA to be conclusive proof of another, the Court **shall not allow** any evidence to be given for the purpose of disproving it.  
   * **Example:** A final judgment in a **Probate** or **Matrimonial** case (Section 35 BSA) is conclusive proof of the legal character of the person. You cannot bring new evidence to say a person isn't divorced if a competent court has already issued a decree.
 
-## Judicial Notice (Sections 51 & 52 BSA)
+### Judicial Notice (Sections 51 & 52 BSA)
 
 **Hindi Word:** **न्यायिक अनपेक्षित तथ्य** (*Nyayik Anapekshita Tathya*)
 
@@ -1807,7 +1807,7 @@ Under **Section 52**, the Court **shall** take judicial notice of:
 * The geographical divisions of the world (e.g., that **Raebareli** is in Uttar Pradesh).  
   **Tip:** In your LG AC case, the Judge takes judicial notice of the Consumer Protection Act; you don't have to "prove" that the law exists.
 
-## Ambiguous Documents (Sections 97–101 BSA)
+### Ambiguous Documents (Sections 97–101 BSA)
 
 **Hindi Word:** **संदिग्ध दस्तावेज** (*Sandigdh Dastaavez*)
 
@@ -1816,7 +1816,7 @@ Sometimes a written document is unclear, and the law has specific rules about wh
 * **Patent Ambiguity (Section 97):** This is a defect that is obvious on the face of the document. For example, if a contract says, "I will sell my hall for 50,000 or 60,000 rupees." This is so vague that the law says **no evidence** can be given to explain which price was meant. The document is void for uncertainty.  
 * **Latent Ambiguity (Sections 98–101):** This is a hidden defect. The document looks fine, but it's hard to apply to real life. For example, "I sell my house in Raebareli to B," but it turns out I own **two** houses in Raebareli. Here, the law **allows** oral evidence to show which house was intended.
 
-## Foreign Law (Section 39 BSA)
+### Foreign Law (Section 39 BSA)
 
 **Hindi Word:** **विदेशी विधि** (*Videshi Vidhi*)
 
@@ -1824,7 +1824,7 @@ Indian Courts are not presumed to know the laws of other countries. Therefore, i
 
 * How is it proved? Through the opinion of **Experts** (Section 39\) or by producing books/journals printed under the authority of that foreign government.
 
-## Oral Evidence must be Direct (Section 55 BSA)
+### Oral Evidence must be Direct (Section 55 BSA)
 
 **Hindi Word:** **प्रत्यक्ष मौखिक साक्ष्य** (*Pratyaksh Maukhik Sakshya*)
 

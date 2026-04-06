@@ -1,4 +1,4 @@
-# Semester 4 - assignment
+# Assignment
 
 ## Bhartiya Sakshaya Adhiniyam (BSA) 2023
 
