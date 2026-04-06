@@ -77,6 +77,17 @@
         color: #0019fa !important;
         font-weight: 800 !important;
       }
+      /* Force sidebar links to standard blue (override theme green) */
+      .sidebar-nav a, .sidebar a, .sidebar-nav li a {
+        color: #0645ad !important; /* normal blue */
+        text-decoration: none !important;
+      }
+      .sidebar-nav a:visited, .sidebar a:visited { color: #0645ad !important; }
+      .sidebar-nav a:hover, .sidebar a:hover { color: #002a80 !important; text-decoration: underline !important; }
+
+      /* Also set markdown/content links to the same blue */
+      .markdown-section a, .content a { color: #0645ad !important; }
+      .markdown-section a:hover, .content a:hover { color: #002a80 !important; text-decoration: underline !important; }
     </style>
     <style>
       /* Use Noto Sans for Latin (English) and Noto Sans Devanagari for Hindi */

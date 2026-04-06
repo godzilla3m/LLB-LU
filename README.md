@@ -7,12 +7,12 @@ Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** cours
 
 ### 6 compulsory theory papers
 
-1. BHARTIYA SAKSHYA ADHINIYAM
-2. LABOUR LAW II
-3. COMPANY LAW-II
-4. CODE OF CIVIL PROCEDURE & LAW OF LIMITATION -II
-5. BHARATIYA NAGARIK SURAKSHA SANHITA II
-6. PROPERTY LAW AND EASEMENT
+1. [Bhartiya sakshya adhiniyam](s04p01-eng.md)
+2. [Labour law II](s04p02-eng.md)
+3. [Company law-II](s04p03-eng.md)
+4. [Code of civil procedure & law of limitation -II](s04p04-eng.md)
+5. [Bharatiya nagarik suraksha sanhita II](s04p05-eng.md)
+6. [Property law and easement](s04p06-eng.md)
 
 | Date | Event | Note |
 | :--- | :--- | :--- |
