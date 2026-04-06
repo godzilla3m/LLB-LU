@@ -24,13 +24,17 @@
       .toc a, .toc-nav a, .markdown-toc a { 
         font-weight: 600 !important; 
         color: #003dc2 !important; 
-        text-decoration: none !important; }
+        text-decoration: none !important; 
+        
+      }
 
       /* Nested TOC items slightly smaller */
       .toc ul ul, .toc-nav ul ul, .markdown-toc ul ul { 
         font-size: 15px !important; 
         font-weight: 500 !important; 
-        margin-left: 10px !important; }
+        margin-left: 10px !important; 
+        
+      }
 
       /* TOC title style */
       .toc .toc-title, .toc-nav .toc-title, .markdown-toc .toc-title, .docsify-plugin-toc .toc-title {
@@ -40,6 +44,89 @@
         color: #0b2540 !important;
       }
 
+    </style>
+    <style>
+      /* LEFT SIDEBAR customizations */
+      /* Increase base font size and weight for sidebar links */
+      .sidebar {
+        font-size: 18px; /* base size for sidebar container */
+        color: #1f2937;
+      }
+      .sidebar-nav, .sidebar-nav li a {
+        font-size: 16px !important;
+        font-weight: 400 !important;
+        color: #1f2937 !important;
+        padding: 0px 10px !important;
+      }
+      /* Sidebar section titles / headings */
+      .sidebar .sidebar-title, .sidebar .sidebar-heading {
+        font-size: 14px !important;
+        font-weight: 800 !important;
+        color: #0b2540 !important;
+        margin-top: 8px !important;
+        margin-bottom: 6px !important;
+      }
+      /* Make active sidebar link more prominent */
+      .sidebar-nav li.active > a {
+        background: #eef4ff !important;
+        color: #0019fa !important;
+        font-weight: 800 !important;
+      }
+    </style>
+    <style>
+      /* RHS TOC: make the active / current item as prominent as the left sidebar */
+      .toc-nav li.active > a,
+      .toc-nav a.active,
+      .toc-nav a[aria-current="true"],
+      .toc li.active > a,
+      .toc a.active,
+      .toc a[aria-current="true"],
+      .markdown-toc li.active > a,
+      .markdown-toc a.active,
+      .markdown-toc a[aria-current="true"],
+      .docsify-plugin-toc li.active > a,
+      .docsify-plugin-toc a.active,
+      .docsify-plugin-toc a[aria-current="true"] {
+        background: #eef4ff !important;
+        color: #0019fa !important;
+        font-weight: 800 !important;
+        border-radius: 4px !important;
+        padding: 4px 6px !important;
+      }
+
+      /* Slight hover effect for TOC items */
+      .toc-nav a:hover,
+      .toc a:hover,
+      .markdown-toc a:hover,
+      .docsify-plugin-toc a:hover {
+        background: rgba(0, 72, 255, 0.06) !important;
+        color: #0037b8 !important;
+      }
+    </style>
+    <style>
+      /* Force main content to start immediately after the LHS sidebar border */
+      /* Adjust these values if your sidebar or TOC widths differ */
+      .sidebar { width: 250px !important; }
+
+      /* Docsify main content area */
+      .content, .docsify .content, #app .content {
+        margin-left: 10px !important; /* align to sidebar end */
+        margin-right: 10px !important; /* leave space for TOC on RHS */
+        
+      }
+
+      /* Make the visible markdown area use full width available inside content */
+      .markdown-section {
+        margin: 0 !important;
+        padding-left: 4px !important;
+        padding-right: 4px !important;
+      }
+
+      /* Responsive: revert to single column on small screens */
+      @media (max-width: 900px) {
+        .content, .docsify .content, #app .content { margin-left: 0 !important; margin-right: 0 !important; max-width: 100% !important; }
+        .sidebar { width: auto !important; }
+      }
     </style>
   </head>
   <body>
