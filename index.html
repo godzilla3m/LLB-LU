@@ -1,196 +1,68 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>LLB-LU</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LLB-LU</title>
+    <meta name="description" content="Law Notes and Resources for LLB Students.">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+    <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">
 
-  <meta name="title" content="LLB-LU">
-  <meta name="description" content="Law Notes and Resources for LLB Students.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://godzilla3m.github.io/LLB-LU/">
-  <meta property="og:title" content="LLB-LU">
-  <meta property="og:description" content="Dedicated study portal for Lucknow University Law subjects.">
-  
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-alerts/dist/styles.css">
-  
- <style>
-  :root {
-    --theme-color: #007bff;
-  }
-  html {
-    
-    /* This creates the necessary 'gap' for both phone and PC */
-    scroll-padding-top: 80px !important; 
-    scroll-behavior: ;
-  }
+    <style>
+      :root{ --base-font-size: 18px; }
+      /* Base text */
+      body, .markdown-section, .sidebar-nav { font-size: var(--base-font-size); color: #000000; }
 
-  /* 1. Typography */
-  body {
-    font-size: 18px;
-    line-height: 1.6;
-    background-color: #f0f2f5 !important; /* Grey 'desk' background */
-    margin: 0;
-  }
-
-  /* 2. THE MASTER LAYOUT (Desktop) */
-  @media screen and (min-width: 769px) {
-    /* This creates the 'white paper' look centered on your 27" monitor */
-    body::before {
-      content: "";
-      position: fixed;
-      top: 0;
-      bottom: 0;
-      left: calc(50% - 600px); /* 600 is half of our 1200px width */
-      width: 1200px;
-      background: white;
-      box-shadow: 0 0 20px rgba(0,0,0,0.1);
-      z-index: -1;
-    }
-
-    /* Keep Sidebar anchored to the left of the centered paper */
-    .sidebar {
-      left: calc(50% - 600px) !important;
-      width: 300px !important;
-      background-color: #fafafa !important;
-      border-right: 1px solid #eee;
-    }
-
-    .sidebar-nav ul li a {
-      font-size: 15px !important;
-      /* 800 is 'Extra Bold', giving it the heavy look you want */
-      font-weight: 800 !important; 
-      color: #444746 !important;   /* Deepest black for maximum clarity */
-      margin: 4px 12px !important;
-      border-radius: px !important;
-      display: block;
-      text-decoration: none;
-      letter-spacing: -0.3px; /* Slightly tighter letters look even bolder */
-    }
-
-      .sidebar-nav li.active > a {
-      /* Change text to Blue */
-      color: #0026ff !important; 
-      /* Gemini-style light blue 'pill' background */
-      background-color: #d6e3ff !important; 
-      /* Extra weight for the active link */
-      font-weight: 900 !important;
-    }
-
-      .sidebar-nav ul li a:hover {
-      background-color: #d6e3ff !important;
-      color: #0019fa !important;
-    }
-
-    /* Content sits exactly next to the sidebar within the paper */
-    .content {
-      position: absolute !important;
-      left: calc(50% - 300px) !important; /* Center - 600 + 300 sidebar */
-      width: 900px !important; /* Wikipedia/Google style readable width */
-      right: auto !important;
-    }
-
-    .markdown-section {
-      max-width: 100% !important;
-      padding: 40px 60px !important;
-      margin: 0 !important;
-    }
-
-    /* Menu button stays with the centered content */
-    .sidebar-toggle {
-      left: calc(50% - 590px) !important;
-      position: fixed !important;
-    }
-
-    /* Full 900px width if sidebar is hidden */
-    body.close .content {
-      left: calc(50% - 450px) !important; /* Half of 900 */
-    }
-
-  }
-
-  /* 3. MOBILE VIEW (Phone stays edge-to-edge) */
-  @media screen and (max-width: 768px) {
-    body { background-color: white !important; }
-    .content { position: static !important; width: 100% !important; 
-      left: 0 !important; margin: 0 !important;
-    }
-    .markdown-section { padding: 0px !important; 
-      max-width: 95% !important;
-      padding: 15px 10px !important;
-      margin: 20px !important;   
-    }
-    .sidebar-toggle { left: 10px !important; }
-  }
-
-  /* 4. High-Quality Tables */
-  table {
-    display: table !important;
-    width: 100% !important;
-    border-collapse: collapse;
-    margin-bottom: 1.5rem;
-  }
-  th, td {
-    padding: 12px !important;
-    border: 1px solid #dfe2e5;
-  }
-  th { background-color: #f8f8f8; font-weight: bold; }
-
-  /* 5. Sidebar Toggle Z-Index */
-  @media screen and (max-width: 768px) {
-  .sidebar-toggle {
-    /* 'Fixed' makes it stay in one spot while scrolling */
-    position: fixed !important; 
-    
-    /* 1001 is higher than the 999 top bar, so it 'floats' on top */
-    z-index: 1001 !important; 
-    
-    /* Positioning it perfectly in the top-left corner */
-    left: 0 !important;
-    top: 0 !important;
-    
-    /* Making the clickable area large and snappy */
-    width: 60px !important;
-    height: 60px !important;
-    
-    /* Removing background to keep it clean */
-    background: transparent !important;
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-  }
-}
-</style>
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'LLB-LU',
-      loadSidebar: true,
-      subMaxLevel: 3,
-      auto2top: true,
-      mergeNavbar: true,
-      // Markdown Alerts Configuration
-      'alerts': {
-        theme: 'vue',
+      /* Docsify TOC overrides to improve readability */
+      .toc, .toc-nav, .markdown-toc, .docsify-plugin-toc {
+        font-size: 16px !important;
+        font-weight: 600 !important;
+        color: #0b2540 !important;
+        line-height: 1.4 !important;
       }
-    }
-  </script>
-  
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-alerts/dist/index.min.js"></script>
-  
-  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script>
-    var config = { 
-      startOnLoad: true, 
-      flowChart: { useMaxWidth: true, htmlLabels: true },
-      theme: 'default'
-    };
-    mermaid.initialize(config);
-  </script>
-</body>
+
+      .toc a, .toc-nav a, .markdown-toc a { 
+        font-weight: 600 !important; 
+        color: #003dc2 !important; 
+        text-decoration: none !important; }
+
+      /* Nested TOC items slightly smaller */
+      .toc ul ul, .toc-nav ul ul, .markdown-toc ul ul { 
+        font-size: 15px !important; 
+        font-weight: 500 !important; 
+        margin-left: 10px !important; }
+
+      /* TOC title style */
+      .toc .toc-title, .toc-nav .toc-title, .markdown-toc .toc-title, .docsify-plugin-toc .toc-title {
+        font-weight: 800 !important;
+        font-size: 16px !important;
+        margin-bottom: 8px !important;
+        color: #0b2540 !important;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script>
+      window.$docsify = {
+        name: 'LLB-LU',
+        loadSidebar: true,
+        subMaxLevel: 0,
+        auto2top: true,
+        mergeNavbar: true,
+        toc: {
+          tocMaxLevel: 5,
+    target: 'h2, h3, h4, h5, h6',
+    ignoreHeaders:  ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
+        }
+      };
+    </script>
+
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc/dist/docsify-plugin-toc.min.js"></script>
+    <script src="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+  </body>
 </html>
+

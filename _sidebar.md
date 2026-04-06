@@ -1,5 +1,5 @@
 * **Semester 4 (Current)**
-  * [S04 Assignment](s04-assignment.md)
+  * [Assignment](s04-assignment.md)
   * [BSA](s04p01-eng.md)
   * [Labour Laws - 2](s04p02-eng.md)
   * [Company Law - 2](s04p03-eng.md)
