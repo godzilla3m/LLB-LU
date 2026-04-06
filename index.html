@@ -103,30 +103,7 @@
         color: #0037b8 !important;
       }
     </style>
-    <style>
-      /* Force main content to start immediately after the LHS sidebar border */
-      /* Adjust these values if your sidebar or TOC widths differ */
-      .sidebar { width: 250px !important; }
-
-      /* Docsify main content area */
-      .content, .docsify .content, #app .content {
-        margin-left: 10px !important; /* align to sidebar end */
-        margin-right: 10px !important; /* leave space for TOC on RHS */
-        
-      }
-
-      /* Make the visible markdown area use full width available inside content */
-      .markdown-section {
-        margin: 0 !important;
-        padding-left: 4px !important;
-        padding-right: 4px !important;
-      }
-
-      /* Responsive: revert to single column on small screens */
-      @media (max-width: 900px) {
-        .content, .docsify .content, #app .content { margin-left: 0 !important; margin-right: 0 !important; max-width: 100% !important; }
-        .sidebar { width: auto !important; }
-      }
+   
     </style>
   </head>
   <body>
