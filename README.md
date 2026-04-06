@@ -22,24 +22,9 @@ Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** cours
 | 15-17 Apr | Internal Exam | |
 |  | Exams Start |  |
 
+---
+
 ## 3rd semester
-
-| Date | Event | Action/Status/Last date |
-| :--- | :--- | :--- |
-| 15 Mar | Admission Fee |  |
-| 05 Apr | Assignment Submission | |
-| 10 Apr | Exam Fee Deadline |  |
-| 25 Apr | Exams Start |  |
-
----
-
-
-
-**Quick Navigation:**
-* **Semester 3:** BNSS, Company Law, CPC, and Interpretation of Statutes.
-* **Semester 4:** Detailed notes for Papers 01 through 06.
-
----
 
 **Current Subjects & Focus**
 
