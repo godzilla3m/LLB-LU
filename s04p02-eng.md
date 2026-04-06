@@ -160,7 +160,7 @@ Under a strict literal interpretation, Amit did not "actually work" for those 45
 
 The concept of "Continuous Service" is designed to be inclusive rather than exclusive. By accounting for unavoidable interruptions like sickness, strikes, and legal leaves, the law ensures that an employee's long-term loyalty is not invalidated by temporary breaks. It bridges the gap between the technical date of joining and the reality of industrial life, ensuring that the social security benefit of gratuity reaches the intended recipient.
 
-### Q5. When does Gratuity become payable to an employee under the Payment of Gratuity Act, 1972? Examine the laws relating to recovery of gratuity.
+### 5. When does Gratuity become payable to an employee under the Payment of Gratuity Act, 1972? Examine the laws relating to recovery of gratuity.
 
 **Introduction**
 
@@ -194,7 +194,7 @@ An employer can only withhold or "forfeit" gratuity in very specific cases, such
 
 The Payment of Gratuity Act ensures that a worker has a financial cushion when they stop working. By setting a strict 30-day deadline and allowing the District Collector to recover the money like a tax debt, the law protects the employee from being cheated. It balances the scales by rewarding honest, long-term service while allowing employers to withhold funds only in cases of serious misconduct.
 
-### Q6. Wages are remuneration payable to an employed person in respect of his employment or work done in such employment. Explain the concept of wages and mention the objective of the Minimum Wages Act, 1948.
+### 6. Wages are remuneration payable to an employed person in respect of his employment or work done in such employment. Explain the concept of wages and mention the objective of the Minimum Wages Act, 1948.
 
 **Introduction**
 
@@ -227,7 +227,7 @@ The Act was passed with the following primary goals:
 
 The concept of wages is not just a mathematical calculation of hours worked; it is a tool for social welfare. The **Minimum Wages Act, 1948** acts as a safety net. It establishes that no employer has the right to run an industry if they cannot pay their employees a minimum wage. By doing so, the law protects the "human dignity" of the labor class and ensures that the "free development of personality" is not crushed by extreme poverty.
 
-### Q7. Analyse the appointment, procedure and power of the 'Authority' to hear and decide wage claims under the Minimum Wages Act, 1948.
+### 7. Analyse the appointment, procedure and power of the 'Authority' to hear and decide wage claims under the Minimum Wages Act, 1948.
 
 **Introduction**
 
@@ -272,7 +272,7 @@ To prevent workers from harassing employers with fake cases, the law says that i
 
 The "Authority" under the Minimum Wages Act is a crucial pillar of labor welfare. By providing a simplified procedure and powerful tools like the "ten times compensation" rule, it ensures that employers take minimum wage laws seriously. It serves as a fast-track court for the poor, ensuring that the human dignity of a worker is protected through the timely recovery of their hard-earned money.
 
-### Q8. Examine the main provisions of the Equal Remuneration Act, 1976 with the help of Judicial Decisions.
+### 8. Examine the main provisions of the Equal Remuneration Act, 1976 with the help of Judicial Decisions.
 
 **Introduction**
 
@@ -315,7 +315,7 @@ If an employer ignores the rules of this Act, they can face serious trouble. Pen
 
 The Equal Remuneration Act, 1976, is more than just a labor law; it is a tool for social equality. It ensures that human dignity is not measured by gender but by the value of the work performed. By removing the "gender gap" in wages, the law helps women gain financial independence and encourages them to participate more in the workforce. Even in 2026, as India moves toward a more digital and modern economy, the core principle of this Act remains the backbone of a fair and just workplace.
 
-### Q9. Explain the appointment and powers of the Inspector under the Payment of Wages Act, 1936. Describe the laws relating to penalties for obstruction in the discharge of the duties of the Inspector.
+### 9. Explain the appointment and powers of the Inspector under the Payment of Wages Act, 1936. Describe the laws relating to penalties for obstruction in the discharge of the duties of the Inspector.
 
 **Introduction**
 
@@ -357,7 +357,7 @@ Under **Section 20**, if a person willfully obstructs an Inspector or fails to p
 
 The Inspector is the eyes and ears of the **Payment of Wages Act, 1936**. Without the Inspector, the law would just be words on paper. By giving them the power to enter, inspect, and seize evidence, the government ensures that workers—who are often in a weaker position than their employers—are protected. The laws regarding penalties for obstruction are equally important because they ensure that the Inspector can work without fear or interference. This system helps maintain "human dignity" in the workplace by ensuring that every worker gets their hard-earned money on time.
 
-### Q10. Explain 'Accounting Year' as defined under the Payment of Bonus Act, 1965. Analyse the laws relating to an employee being entitled or ineligible for Bonus.
+### 10. Explain 'Accounting Year' as defined under the Payment of Bonus Act, 1965. Analyse the laws relating to an employee being entitled or ineligible for Bonus.
 
 **Introduction**
 
@@ -479,7 +479,7 @@ However, usually, the worker cannot get **Double Compensation (दोहरा �
 
 In conclusion, while the Indian Industry is generally liable for its workers abroad, the fact that the employee was drunk at the time of a non-fatal accident changes the legal position. Under Section 3(1)(b) of the Employee's Compensation Act, the Indian Industry is likely **Not Liable** for compensation because the permanent disability resulted from an accident caused by intoxication. If the injury had resulted in death, the employer would have been liable regardless of the drunkenness. Therefore, the employee's own misconduct serves as a complete bar to his claim for compensation in this specific instance.
 
-### Explain the following: (a) National Extension theory (b) Contracting out
+### Explain the following: (a) National Extension theory, (b) Contracting out
 
 **Introduction**
 

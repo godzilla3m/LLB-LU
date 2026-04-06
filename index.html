@@ -8,14 +8,19 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
     <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">
 
+    <!-- Load Google Noto fonts for multilingual support -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@500;700&display=swap" rel="stylesheet">
+
     <style>
-      :root{ --base-font-size: 18px; }
+      :root{ --base-font-size: 16px; }
       /* Base text */
       body, .markdown-section, .sidebar-nav { font-size: var(--base-font-size); color: #000000; }
 
       /* Docsify TOC overrides to improve readability */
       .toc, .toc-nav, .markdown-toc, .docsify-plugin-toc {
-        font-size: 16px !important;
+        font-size: 15px !important;
         font-weight: 600 !important;
         color: #0b2540 !important;
         line-height: 1.4 !important;
@@ -72,6 +77,29 @@
         color: #0019fa !important;
         font-weight: 800 !important;
       }
+    </style>
+    <style>
+      /* Use Noto Sans for Latin (English) and Noto Sans Devanagari for Hindi */
+      :root { --ui-font: 'Noto Sans', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; --dev-font: 'Noto Sans Devanagari'; }
+
+      html, body {
+        font-family: var(--ui-font);
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      /* Ensure Hindi/Devanagari text uses the Devanagari font */
+      :lang(hi), [lang="hi"] {
+        font-family: var(--dev-font), var(--ui-font);
+        line-height: 1.6; /* slightly more breathing for Devanagari */
+      }
+
+      /* Ensure sidebars and TOC inherit the UI font by default */
+      .sidebar, .sidebar-nav, .toc-nav, .toc, .markdown-toc { font-family: var(--ui-font); }
+      /* But if those areas contain Hindi content, the :lang rule above will apply */
+
+      /* Respect swap so text remains visible while font loads */
+      /* No further rules needed — Google Fonts URL already uses display=swap */
     </style>
     <style>
       /* RHS TOC: make the active / current item as prominent as the left sidebar */
