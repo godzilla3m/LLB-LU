@@ -7,6 +7,7 @@ Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** cours
 
 ### 6 compulsory theory papers
 
+* [Assignment](s04-assignment.md)
 1. [Bhartiya sakshya adhiniyam](s04p01-eng.md)
 2. [Labour law II](s04p02-eng.md)
 3. [Company law-II](s04p03-eng.md)
