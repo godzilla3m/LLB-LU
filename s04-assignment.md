@@ -26,7 +26,7 @@ Confession means a statement made by a person admitting guilt of an offence. It 
 **Conclusion** 
 In short, confession means admitting guilt of a crime. But confessions made to police officers or in police custody are not admissible because they may be obtained by pressure or fear. The law requires that confessions must be voluntary and preferably recorded before a magistrate to be valid. This rule protects justice and prevents wrongful convictions.  
 
----
+
 
 ### Q2. “The art of cross-examination is a double-edged weapon” critically comment. State what questions cannot be asked in cross-examination?
 
@@ -51,6 +51,8 @@ The law does not give a lawyer total freedom to harass a witness. The Indian Evi
 **Conclusion**
 
 Cross-examination is an essential tool for justice, but it must be used ethically. It requires a balance of boldness and caution. While it serves to protect "human dignity" by exposing false accusations, the court acts as a shield to ensure the witness is not subjected to unnecessary mental pain or character assassination. Under the law, the goal is always to find the truth, not to win by bullying.
+
+---
 
 ## Labour law - 2
 
@@ -113,6 +115,8 @@ The person responsible for payment must fix "wage periods" (e.g., daily, weekly,
 
 The rules regarding the time of payment are designed to provide financial stability to the labor class. By fixing the 7th or 10th day as the deadline, the law ensures that a worker can plan their household expenses and maintain their "human dignity." Timely payment prevents workers from falling into the trap of high-interest loans, thus supporting the "free development of their personality" and ensuring a fair relationship between the employer and the employee.
 
+---
+
 ## Code of civil procedure & law of limitation - 2
 
 ### Q1. What do you understand by substantial question of law’ on which second appeal lies in the High Court under section 100 of the CPC 1908
@@ -173,6 +177,8 @@ Section 8 limits the extension. It says that once the disability ends, the perso
 **Conclusion**
 
 The concept of legal disability is a humane exception to a strict rule. While the law wants cases to be filed quickly to ensure certainty, it also wants to protect the "free development of personality" for those who are vulnerable. By pausing the clock for minors and the mentally ill, the Limitation Act ensures that justice is not denied to those who are physically or mentally unable to ask for it on time.
+
+---
 
 ## BNSS - 2
 
@@ -244,6 +250,8 @@ If a person is accused of a major theft (punishable by 3 years), it is a warrant
 **Conclusion**
 
 The distinction between the two types of warrant trials ensures that "human dignity" is maintained regardless of how the case reaches the court. By allowing a discharge if the case is groundless and giving the accused a chance to cross-examine witnesses, the BNSS upholds the principle of a fair trial. The detailed procedure acts as a safeguard against false accusations and ensures that serious punishments are only handed out after a thorough judicial examination.
+
+---
 
 ## Property law and easement
 
@@ -340,6 +348,8 @@ A person is "put to election" only when:
 
 Vested and Contingent interests define the "when" of property ownership—whether it is certain or depends on luck. The Doctrine of Election ensures "social justice" by preventing people from taking unfair advantage of a legal document. For an LLB student, these concepts are the foundation of understanding how property rights move from one person to another in a fair and organized way.
 
+---
+
 ## Company law - 2
 
 ### Q1. Explain the rule of majority shareholders. Are there any exceptions to this rule? Discuss.
@@ -416,4 +426,3 @@ The law has moved from a "Comply or Explain" model to a more strict "Comply or b
 **Conclusion**
 
 CSR is a powerful tool for "social justice" in the commercial world. It bridges the gap between massive corporate wealth and the needs of the grassroots population. By enforcing strict guidelines for spending, reporting, and penalties, the Companies Act ensures that businesses do not just focus on profit but also on the "free development of personality" for the society that sustains them. This legal framework makes Indian corporations active partners in national growth and community welfare.
-
