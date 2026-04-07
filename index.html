@@ -11,8 +11,9 @@
     <!-- Load Google Noto fonts for multilingual support -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@400;700&display=swap" rel="stylesheet">
 
+   
     <style>
       :root{ --base-font-size: 16px; }
       /* Base text */
@@ -84,11 +85,13 @@
       }
       .sidebar-nav a:visited, .sidebar a:visited { color: #0645ad !important; }
       .sidebar-nav a:hover, .sidebar a:hover { color: #002a80 !important; text-decoration: underline !important; }
-
+  
       /* Also set markdown/content links to the same blue */
       .markdown-section a, .content a { color: #0645ad !important; }
       .markdown-section a:hover, .content a:hover { color: #002a80 !important; text-decoration: underline !important; }
     </style>
+
+
     <style>
       /* Use Noto Sans for Latin (English) and Noto Sans Devanagari for Hindi */
       :root { --ui-font: 'Noto Sans', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; --dev-font: 'Noto Sans Devanagari'; }
@@ -141,13 +144,25 @@
         background: rgba(0, 72, 255, 0.06) !important;
         color: #0037b8 !important;
       }
-    </style>
    
     </style>
+
+
+<style>
+
+/* Hover effect */
+.sidebar-toggle {
+  background: #ebebeb;
+}
+
+
+</style>
+
+
   </head>
   <body>
     <div id="app"></div>
-
+    
     <script>
       window.$docsify = {
         name: 'LLB-LU',
