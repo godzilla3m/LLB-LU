@@ -688,12 +688,12 @@ A very important part of this provision is understanding what "same work or work
 2. **Responsibility:** Do both workers have a similar level of accountability for their tasks?
 3. **Conditions of Work:** Are the jobs performed under similar environmental conditions?
 
-Example; Imagine two people in the same office:
+**Example**; Imagine two people in the same office:
 
 * Ravi is a clerk who types data into the computer.
 * Sita is also a clerk who files papers and enters information into the system.
 
-    **Both jobs:**
+**Both jobs:**
 
 * Need the same skill and effort (basic computer use, attention to detail).
 * Carry the same responsibility (keeping records accurate).
