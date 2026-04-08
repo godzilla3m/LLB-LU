@@ -13,6 +13,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+Devanagari:wght@400;700&display=swap" rel="stylesheet">
 
+    <!-- KaTeX CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
    
     <style>
       :root{ --base-font-size: 16px; }
@@ -146,19 +148,21 @@
       }
    
     </style>
+    <style>
 
+    /* Hover effect */
+    .sidebar-toggle {
+      background: #ebebeb;
+      width: auto;
+    }
+    </style>
 
 <style>
-
-/* Hover effect */
-.sidebar-toggle {
-  background: #ebebeb;
-  width: auto;
-}
-
-
+  .katex-display {
+    white-space: normal;   /* allow wrapping */
+    overflow-x: auto;      /* add horizontal scroll if needed */
+  }
 </style>
-
 
   </head>
   <body>
@@ -175,13 +179,39 @@
           tocMaxLevel: 5,
     target: 'h2, h3, h4, h5, h6',
     ignoreHeaders:  ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
-        }
-      };
+        },
+        repo: '',
+        plugins: [
+          function (hook, vm) {
+            hook.doneEach(function() {
+              renderMathInElement(document.body, {
+                delimiters: [
+                  {left: "$$", right: "$$", display: true},
+                  {left: "$", right: "$", display: false}
+                ]
+              });
+            });
+          }
+        ]
+      }     
+      
     </script>
 
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc/dist/docsify-plugin-toc.min.js"></script>
     <script src="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    
+        <!-- KaTeX JS -->
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+
+
+
+    <script>
+     
+    </script>
+
   </body>
 </html>
 
