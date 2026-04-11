@@ -1,5 +1,50 @@
 # Labour laws - 2
 
+## Top 10 topics
+
+Based on the solved previous years' question papers provided in the sources, here are the top 10 hot topics in Labour Laws, explained in simple language with short notes and examples:
+
+**1. The Theory of Notional Extension (Employee's Compensation Act)**
+*   **Short Note:** Normally, an employer is only responsible for accidents that happen during work hours at the actual workplace. However, the **Theory of Notional Extension** stretches this definition. It states that employment includes the reasonable time and space a worker uses to enter or leave the workplace.
+*   **Example:** If a worker is injured in a bus provided by the company while traveling to the factory, the employer is liable to pay compensation because the worker is deemed to be in the "course of employment".
+
+**2. Employer’s Liability and the "Intoxication" Rule**
+*   **Short Note:** Generally, if an accident happens because a worker was drunk or under the influence of drugs, the employer is **not liable** to pay compensation. However, there is a massive exception to this rule: **if the drunken accident results in the worker's death, the employer must still pay the family**.
+*   **Example:** If a drunk worker falls on a machine and becomes permanently disabled, he gets nothing. But if he dies from that same fall, his family is legally entitled to compensation.
+
+**3. Occupational Diseases and "Deemed Accidents"**
+*   **Short Note:** The law recognizes that some jobs cause slow, long-term health damage (like lung disease from dust). Under Schedule III of the Act, if a worker gets a disease related to their specific industry, it is considered a **"deemed accident"**. The law assumes the job caused it, making it easier for the worker to get financial help without having to prove exactly when they got sick.
+*   **Example:** A worker who develops Pneumoconiosis (a lung disease) after working in a coal mine for two years is legally presumed to have suffered a workplace injury and gets compensation.
+
+**4. Maternity Benefits and Employment Protection**
+*   **Short Note:** The Maternity Benefit Act guarantees pregnant working women **26 weeks of paid leave**. Crucially, an employer is **strictly prohibited from dismissing a woman** while she is on maternity leave. Employers also cannot assign arduous (physically difficult) tasks to a woman in the month leading up to her leave.
+*   **Example:** A pregnant employee in a software company must be shifted away from stressful tasks without a pay cut, and she gets 26 weeks of paid leave if she has worked there for at least 80 days.
+
+**5. Gratuity and the "Continuous Service" Rule**
+*   **Short Note:** Gratuity is a lump-sum reward paid to workers for long-term loyalty. Typically, a worker must complete **5 years of "continuous service"** to be eligible. The law is flexible: leaves for sickness or illegal lock-outs are still counted as continuous service. Also, the 5-year requirement is completely waived if the worker dies or becomes permanently disabled.
+*   **Example:** If an employee resigns after 6 years, they get gratuity. If an employee suffers an accident and becomes permanently disabled after just 2 years, they also get gratuity because the 5-year rule is waived.
+
+**6. Normal Working Hours and Overtime Wages**
+*   **Short Note:** The Minimum Wages Act protects workers from being overworked by fixing a "normal working day" at **9 hours** (and 48 hours a week maximum). It also mandates a 30-minute rest break. If an employee is asked to work beyond these hours, it counts as "Overtime."
+*   **Example:** If a worker works past their normal hours, the employer must pay them at **double their ordinary wage rate** for those extra hours.
+
+**7. Equal Pay for Equal Work**
+*   **Short Note:** The Equal Remuneration Act makes it illegal to pay women less than men if they are doing the **"same work or work of a similar nature"**. An employer cannot fix the gap by reducing the man's salary; they are legally required to raise the woman's salary. Discrimination during recruitment is also strictly banned.
+*   **Example:** If a private school pays a male teacher ₹25,000 and a female teacher ₹20,000 for teaching the exact same subjects to the same class level, it is a direct violation of the law.
+
+**8. Authorized Deductions from Wages**
+*   **Short Note:** To stop employers from unfairly cutting pay, the Payment of Wages Act only allows very specific, legally authorized deductions. These include deductions for absence, fines for listed misconduct, recovering advances, or damage caused by the worker's neglect. In total, deductions generally cannot exceed **50% of a worker's wages**.
+*   **Example:** If a worker is absent for one day out of a 30-day month, the employer is only allowed to cut one day's worth of proportionate wages. 
+
+**9. The Power of Labour Inspectors and Dispute Authorities**
+*   **Short Note:** Laws like the Payment of Wages Act rely on **Inspectors** to enforce the rules. Inspectors have sweeping powers to enter factories, seize wage registers, and interview workers. Anyone who obstructs them faces heavy penalties. Similarly, special "Authorities" are created to quickly hear minimum wage claims, functioning with the powers of a Civil Court.
+*   **Example:** If an employer locks the factory gate to prevent an Inspector from checking the workers' payment records, the employer is guilty of "obstruction" and will be fined.
+
+**10. Payment of Minimum and Maximum Bonus**
+*   **Short Note:** A bonus is a legal right, not a festive gift. Under the Payment of Bonus Act, an employer is bound to pay a **minimum bonus of 8.33%** of the worker's salary every year, **even if the business suffers a loss**. Conversely, even if a company makes record-breaking profits, the **maximum bonus is capped at 20%** to ensure the business can save money for its future stability.
+*   **Example:** If Rohit earns ₹10,000 a month and his company suffers a loss, he still gets an 8.33% bonus. If the company makes millions in profit, his bonus is legally capped at 20%.
+
+
 ## 2025
 
 ### 1. The objective of Social Security Legislation in India is to ensure human dignity and the free development of his personality. Analyse the objectives of the Employee's Compensation Act, 1923.

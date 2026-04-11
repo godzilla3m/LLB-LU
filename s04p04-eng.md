@@ -39,6 +39,50 @@ You must know the list of documents that **must** be registered to be valid in c
 
 ---
 
+Here are the top 10 hot topics from the previous years' question papers, summarized with easy-to-understand notes and examples:
+
+**1. Arrest and Detention in Civil Prison**
+*   **Short Note:** When a person (judgment-debtor) loses a money-related case and intentionally avoids paying despite having the money, the court can send them to a civil prison to pressure them into paying. The maximum jail time is 3 months for debts over ₹5,000, and 6 weeks for debts between ₹2,000 and ₹5,000. Women cannot be arrested for money decrees. The winner of the case must pay a "subsistence allowance" in advance to cover the debtor's food and stay in jail.
+*   **Example:** If Rahul owes Amit ₹10,000 and refuses to pay, Amit can ask the court to jail Rahul for up to 3 months. However, Amit must pay for Rahul's meals while he is locked up.
+
+**2. Judgments vs. Decrees**
+*   **Short Note:** A **Judgment** is the detailed reasoning given by a judge explaining *why* they made a decision, which must be pronounced in an open court within 30 to 60 days of the hearing. A **Decree** is the formal, operative part of that decision that lists exactly what the winning party gets (like money, property, or costs).
+*   **Example:** The judgment explains that 'A' proved his ownership of a car using purchase receipts. The decree is the final actionable order stating: "'B' must return the car to 'A' and pay ₹5,000 in legal costs".
+
+**3. Second Appeal & Substantial Question of Law**
+*   **Short Note:** A Second Appeal is filed in the High Court, but it is not a guaranteed right. The High Court will only hear a second appeal if the case involves a **Substantial Question of Law**. It does not re-examine factual disputes or witness testimonies. The High Court must explicitly write down (formulate) the legal question before hearing the case.
+*   **Example:** The High Court will reject an appeal if you just want to argue that a witness lied (a factual dispute). However, it will accept the appeal to decide whether an unsigned email legally counts as a binding contract under Indian law (a substantial question of law).
+
+**4. Review vs. Revision**
+*   **Short Note:** Both are tools to fix a court's mistakes, but they work differently. A **Review** is filed in the *same court* to fix an obvious mistake on the record (like a math error) or if crucial new evidence is found. A **Revision** is filed in the *High Court* to check if a lower court crossed its jurisdictional boundaries or acted completely illegally. 
+*   **Example:** If the judge meant to award you ₹10,000 but the typist wrote ₹1,000, you file for a Review with that same judge. If a small consumer court illegally decides a murder case, you file a Revision in the High Court to stop them.
+
+**5. Legal Disability (Limitation Act)**
+*   **Short Note:** The law sets strict deadlines to file lawsuits. However, the clock is "paused" for people with a **Legal Disability**, which strictly includes only three categories: minors (under 18), insane persons, and idiots. The deadline starts only after the disability ends. Crucially, the maximum time extension they get after the disability ends is 3 years.
+*   **Example:** A 10-year-old child's property is illegally seized. The normal 12-year deadline to file a case doesn't start yet. The clock starts when the child turns 18, giving them exactly 3 years (until age 21) to file the lawsuit.
+
+**6. Awarding Interest and Costs**
+*   **Short Note:** Courts can award **Interest** to compensate the winner for the time their money was stuck, generally capped at 6% per annum for non-commercial matters. If the final decree says nothing about future interest, the law assumes the court formally refused it, and you cannot file a new, separate suit just to claim that interest. The court can also impose **Compensatory Costs** up to ₹3,000 on someone who files a completely fake or harassing case.
+*   **Example:** If your neighbor sues you for ₹50,000 knowing perfectly well you owe him nothing just to harass you, the judge will dismiss his case and force him to pay you up to ₹3,000 as compensatory costs for wasting your time.
+
+**7. Attachment of Property and Exemptions**
+*   **Short Note:** **Attachment** is when the court takes legal control of a loser's property so it can be auctioned to pay off a debt. Once attached, any private sale of that property is legally "void" (invalid) against the winner's claims. However, the law provides humanitarian **Exemptions**—basic survival items cannot be attached.
+*   **Example:** If the court attaches a farmer's land, the farmer cannot secretly sell it to someone else. Also, the court cannot seize the farmer's tractor, seeds, cooking pots, or daily clothes, because these are basic necessities for survival.
+
+**8. Condonation of Delay (Sufficient Cause)**
+*   **Short Note:** Section 5 of the Limitation Act allows courts to accept late appeals and applications if the person can prove they had a **Sufficient Cause** (a genuine, unavoidable reason) for missing the deadline. The court uses this to deliver justice rather than punishing honest mistakes. This rule does not apply to the original filing of a new lawsuit.
+*   **Example:** If you missed the 30-day deadline to file an appeal because you were in a coma after a car accident, the court will accept your medical records as "sufficient cause" and forgive the delay. 
+
+**9. Reference to the High Court**
+*   **Short Note:** A **Reference** is when a lower court pauses a pending case to ask the High Court for legal guidance. This is done when the lower court judge has a genuine doubt about a complex point of law, or doubts whether a particular Act or Government Regulation is constitutional.
+*   **Example:** A trial judge gets a case involving a brand-new local taxation law. The judge thinks the law violates the Constitution but isn't sure. The judge halts the trial and sends a "Reference" to the High Court asking, "Is this law valid?" before proceeding.
+
+**10. Compulsory Registration of Documents**
+*   **Short Note:** To prevent fraud, Section 17 of the Registration Act mandates that certain documents *must* be officially registered. This includes any gift of immovable property, or the sale/lease of property worth ₹100 or more. If a compulsorily registrable document is not registered, it has zero legal value and cannot be used as evidence in court.
+*   **Example:** If a father gifts a house to his daughter by simply writing it on a piece of paper and signing it, she does not legally become the owner. For the gift to be valid, they must formally register a Gift Deed at the Sub-Registrar's office.
+
+---
+
 ## 2025
 
 ### 1. Elaborate the various stages of pronouncement of judgment State the contents of decree. In which case the appeal shall lie without decree?
@@ -1732,4 +1776,3 @@ If a document that **must** be registered is not, the consequences are:
 * It does not confer any power to adopt.
 * **Exception:** It can still be used as evidence for **Collateral Transactions** (Hindi word: *Saamparshvik Lenden*) that don't require registration, or in a suit for **Specific Performance**.
 
-This completes the 2018 paper. Since we have covered six years of papers (2018-2025), you have a very strong bank of repeated questions. 

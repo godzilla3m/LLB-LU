@@ -1,5 +1,50 @@
 # BSA
 
+## Top 10
+
+**1. Dying Declaration (Section 26(a) BSA)**
+A dying declaration is a verbal, written, or gestured statement made by a person who is now dead, explaining the cause of their death or the circumstances that resulted in their death,. It is an exception to the hearsay rule, based on the belief that a dying person will not lie. Under Indian law, the person does not need to have been in actual expectation of death when making the statement,.
+*   **Example:** A woman is brought to the hospital with severe burns and tells the doctor, "My husband set me on fire for dowry," and later dies. This statement is a valid dying declaration,.
+
+**2. Confession vs. Admission**
+An **admission** is a broad civil or criminal statement where someone acknowledges a fact against their own interest,. A **confession** is a specific type of admission used only in criminal cases where an accused person admits to committing a crime,. While admissions act as a shield (estoppel), a voluntary confession can be the sole basis for a criminal conviction. However, confessions made to a police officer are strictly inadmissible to prevent torture,. 
+*   **Example:** Saying "I owe you 5,000 rupees" is an admission. Telling a Magistrate "I stole the watch" is a confession.
+
+**3. Estoppel (Section 121 BSA)**
+Estoppel is a legal principle of fairness that stops a person from "blowing hot and cold". If you intentionally make a statement or act in a way that makes someone else believe something, and they spend money or change their position based on that belief, the court will **stop (estop)** you from later denying your original statement,.
+*   **Example:** You falsely tell a buyer you own a plot of land and take their money. Later, you actually inherit the land and try to cancel the sale by claiming you didn't own it at the time. The law applies estoppel and forces you to honor the sale,.
+
+**4. Res Gestae / The "Same Transaction" Rule (Section 4 BSA)**
+Res Gestae translates to "things done." It allows spontaneous words or actions that occurred during a crime or event to be used as evidence, even if the person who said them isn't in court, because they form part of the same continuous transaction,. 
+*   **Example:** If you witness a car accident and hear a bystander immediately yell, "He was overspeeding!", that spontaneous shout is considered part of the *Res Gestae*.
+
+**5. Relevancy vs. Admissibility**
+Relevancy is based on logic—whether a fact helps prove or disprove a case. Admissibility is a strict legal concept—whether the court is legally permitted to hear that fact. All admissible facts are relevant, but not all relevant facts are admissible.
+*   **Example:** A private conversation between a husband and wife about a crime is logically relevant, but it is legally **inadmissible** to protect the sanctity of marriage,.
+
+**6. Proved, Disproved, and Not Proved (Section 2 BSA)**
+These terms describe the judge's state of mind after evaluating evidence,.
+*   **Proved:** The court believes the fact exists or is highly probable.
+*   **Disproved:** The court believes the fact is false or does not exist.
+*   **Not Proved:** A neutral state where evidence is so balanced or insufficient that the court cannot decide either way.
+*   **Example:** If 'X' sues 'Y' for a loan and produces a signed promissory note, the debt is **proved**. If 'Y' produces a bank receipt showing repayment, the debt is **disproved**. If there are no receipts or witnesses at all, the debt is **not proved**.
+
+**7. Burden of Proof (Section 104 BSA)**
+The burden of proof dictates who is responsible for providing evidence. The general rule is "he who asserts must prove"—the person making a claim must back it up,. If neither side brings evidence, the person who filed the case loses. 
+*   **Example:** If you sue an electronics company claiming your AC is defective, the burden is on you to prove the defect exists (e.g., through technician reports). If someone accused of a crime claims they acted in self-defense, the burden shifts to them to prove that specific claim.
+
+**8. Primary vs. Secondary Evidence**
+The law always demands the "Best Evidence," which is **Primary Evidence** (the original document). However, if the original is lost, destroyed in a flood, unreachable, or held by the opposing party, the court permits the use of **Secondary Evidence** (like photocopies or certified copies),.
+*   **Example:** If an electronics company refuses to produce your original service contract after a legal notice, you are allowed to submit a photocopy of the contract as secondary evidence.
+
+**9. Accomplice Testimony (Section 138 BSA)**
+An accomplice is a guilty associate who participated in a crime. The law states that an accomplice is a competent witness (often called an "approver"), and a judge legally *can* convict someone based solely on their testimony,. However, as a rule of prudence, judges presume accomplices are untrustworthy and usually require independent supporting evidence (corroboration) before convicting,.
+*   **Example:** A robber testifies that his partner used a silver hammer to break the glass. The judge will wait to see if the police actually found a silver hammer in the partner's house before fully trusting the robber's word.
+
+**10. Fact in Issue vs. Relevant Fact**
+A **Fact in Issue** is the core dispute the court must decide (the ultimate goal of the trial),. A **Relevant Fact** is the evidentiary clue or stepping stone used to prove the main dispute,,. 
+*   **Example:** In a murder trial, the main question "Did 'A' intend to kill 'B'?" is the Fact in Issue. The fact that 'A' was seen buying a knife a day before is a Relevant Fact,.
+
 ## 2025
 
 ### Question 1: Discuss and distinguish between proved, dis-proved and not proved.
