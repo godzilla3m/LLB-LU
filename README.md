@@ -20,7 +20,7 @@ Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** cours
 | 27-2-2026 | Admission Fee Deadline |  |
 | 8-4-2026 | Exam Form & Fee Deadline | https://exam.lkouniv.ac.in/apps |
 | 11 Apr | Assignment Submission Deadline | |
-| 15-17 Apr | Internal Exam | 10:30am - 12:00pm, 12:30pm - 1:45pm |
+| 15-17 Apr | Internal Exam | [Schedule](Annexure.md#internal-exam) |
 |  | External Exams Start |  |
 
 ---
